@@ -1,0 +1,10 @@
+* {
+    font: Helvetica;
+}
+
+h1 {
+    background-color: #454746;
+    color: #f34f12;
+    font-weight: bold;
+    text-align: center;
+}
